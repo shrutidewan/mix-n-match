@@ -1,6 +1,6 @@
-# splitz
+# Mix n Match
 
-A bill splitting app
+An outfit planner app.
 
 ## Getting Started
 
